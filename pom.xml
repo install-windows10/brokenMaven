@@ -34,4 +34,11 @@
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
+	
+	<properties>
+	  <sonar.projectKey>install-windows10_brokenMaven</sonar.projectKey>
+	  <sonar.organization>install-windows10</sonar.organization>
+	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+	
 </project>
